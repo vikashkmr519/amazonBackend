@@ -1,0 +1,31 @@
+package com.example.usermetadata.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.usermetadata.entity.UserMetaData;
+import com.example.usermetadata.services.UserService;
+
+@RestController
+@RequestMapping("/amazon/users/")
+public class UserController {
+	
+	@Autowired
+	UserService userService;
+	
+	@PostMapping("saveUserDetails")
+	public UserMetaData saveUserDetails(@RequestBody UserMetaData userData) {
+		return userService.saveUserMetaData(userData);
+	}
+	
+	@GetMapping("getUserDetails/{userId}")
+	public UserMetaData getUserDetails(@PathVariable String userId) throws Exception {
+		return userService.getUserMetaData(userId);
+	}
+
+}

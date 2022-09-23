@@ -1,0 +1,7 @@
+package com.example.usermetadata.repositories;
+
+
+@
+public class UserRepo {
+
+}

@@ -1,0 +1,6 @@
+package com.example.usermetadata.entity;
+
+import org.springframework.boot.autoconfigure.domain.EntityScan;
+
+public class UserMetaData {
+}
