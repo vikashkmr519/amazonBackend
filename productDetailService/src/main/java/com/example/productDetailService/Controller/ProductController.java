@@ -35,7 +35,7 @@ public class ProductController {
 	
 	
 	@GetMapping("/search/{productId}")
-	public Product saveData(@PathVariable UUID productId) {
+	public Product getProductByProductId(@PathVariable UUID productId) {
 		return service.findProductByProductId(productId);
 	}
 	

@@ -1408,3 +1408,159 @@ Contains: Missing com.google.code.findbugs:annotations:jar:javadoc:2.0.0
 !MESSAGE Could not resolve artifact com.google.code.findbugs:annotations:jar:javadoc:2.0.0
 !SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-09-24 23:48:47.164
 !MESSAGE Missing com.google.code.findbugs:annotations:jar:javadoc:2.0.0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:25.607
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:25.608
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:25.608
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd productDetailService false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:25.608
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:25.613
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:57.744
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:57.748
+!MESSAGE classpath=75 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:57.749
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd productDetailService false 75
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:57.749
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:05:57.759
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:12:44.444
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:12:44.447
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:12:44.447
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd addToCart false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:12:44.448
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:12:44.483
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-09-25 00:12:50.409
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:49.434
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:49.435
+!MESSAGE classpath=91 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:49.435
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd addToCart false 91
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:49.435
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:49.440
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:57.112
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:57.114
+!MESSAGE classpath=135 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:57.118
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd addToCart false 135
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:57.118
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:14:57.127
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:19:29.818
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:19:29.819
+!MESSAGE classpath=144 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:19:29.819
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd addToCart false 144
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:19:29.819
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:19:29.825
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:20:04.838
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:20:04.839
+!MESSAGE classpath=144 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:20:04.839
+!MESSAGE buffering callback sts4.classpath.FKIzuNdd addToCart false 144
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:20:04.839
+!MESSAGE executing callback sts4.classpath.FKIzuNdd 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:20:04.849
+!MESSAGE executing callback sts4.classpath.FKIzuNdd SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2022-09-25 00:25:19.304
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$13(LanguageServerWrapper.java:425)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$4(LanguageServerWrapper.java:260)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:25:19.307
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FKIzuNdd
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:25:19.308
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.FKIzuNdd
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:25:19.308
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-25 00:25:19.308
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.FKIzuNdd => OK

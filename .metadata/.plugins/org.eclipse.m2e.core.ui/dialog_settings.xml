@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/vikashkumar/Documents/Workspaces/workspace-spring/Amazon backend/addToCart"/>
+			<item value="/Users/vikashkumar/Documents/Workspaces/workspace-spring/Amazon backend/productDetailService"/>
 			<item value="/Users/vikashkumar/Documents/Workspaces/workspace-spring/Amazon backend/usermetadata"/>
 		</list>
 		<list key="projectNameTemplate">
